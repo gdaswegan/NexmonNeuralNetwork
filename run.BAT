@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Python\Python367-32\python" wifiKerasNeuralNetwork.py
